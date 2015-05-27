@@ -22,11 +22,11 @@
 	"FileDelete": "Estàs segur d'esborrar el fitxer \"%1\"?",
 	"FilesDelete": "Estàs segur d'esborrar els %1 fitxers?",
 	"FilesLoading": {
-		"title": "Loading...",
-		"text": "Please wait. The files are being loaded."
+		"title": "Carregant...",
+		"text": "Si us plau espera. Els fitxers s'estan carregant."
 	},
 	"FilesEmpty": {
-		"title": "The folder is empty.",
+		"title": "La carpeta està buida.",
 		"text": "Use the <strong>Upload</strong> button or <strong>drag and drop</strong> your files here."
 	},
 	"FilterFilesEmpty": {
